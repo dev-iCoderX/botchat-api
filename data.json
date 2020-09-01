@@ -1,0 +1,8 @@
+[
+    {"question": ["Ăn cơm chưa", "Chơi không"], "answer": ["Chưa", "Rồi"]}, 
+    {"question": ["Về chưa","Nhà chưa"], "answer": "Rồi"}, 
+    {"question": "ăn cơm", "answer": "rồi"},
+    {"question": "đi chơi", "answer": ["ở đâu","khi nào"]},
+    {"question" : "Covid-19 xuất hiện khi nào", "answer":"Các cơ quan y tế và đối tác y tế đang nỗ lực để xác định nguồn gốc của Covid-19. Virus corona là một betacoronavirus, giống như MERS và SAR, tất cả đều có nguồn gốc từ vật chủ từ loài dơi. Virus corona là một họ virus lớn, phổ biến ở nhiều loài động vật khác nhau bao gồm lạc đà, mèo và dơi. Phân tích cây di truyền của virus này đang được tiếp tục để biết nguồn gốc cụ thể của virus. SARS, một loại coronavirus khác xuất hiện lây nhiễm cho người, bắt nguồn loài từ cầy hương, trong khi MERS, một loại coronavirus khác lây nhiễm cho người, bắt nguồn từ lạc đà."},
+    {"question": "Thống kê", "answer": ["🌍Trên thế giới:\nTổng số ca nhiễm bệnh: 25.649.088\nTổng số ca tử vong: 854.984\nTổng số ca hồi phục: 17.951.401","Tại Việt Nam:\nTổng số ca nhiễm bệnh: 1044\nTổng số ca tử vong: 34\nTổng số ca hồi phục: 707\nCập nhật lần cuối lúc: 18:00 30/8 - Nguồn: Bộ Y Tế"]}
+]
