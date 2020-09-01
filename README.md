@@ -1,11 +1,11 @@
-#Botchat-api
+# Botchat-api
 
 Test
 
-*Cách dùng:
+* Cách dùng:
 
 `./botchat-api?question={Câu hỏi ở đây}`
 
-*Ví dụ: 
+* Ví dụ: 
 
 `/botchat-api?question=Thống%20kê`
